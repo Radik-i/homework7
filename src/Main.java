@@ -110,6 +110,7 @@ public class Main {
         while (startYear <= finishYear) {
             System.out.println(startYear);
             startYear = startYear + 79;
+
         }
         System.out.println("");
     }
